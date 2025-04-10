@@ -35,3 +35,20 @@ Explore live demos and code experiments I whipped up in Replit! 🛠️⚡
 ```text
 🐍 Python     🧙‍♂️ Tkinter   🕹️ Pygame
 🛜 Sockets     ☁️ Flask      🧩 APIs
+
+
+
+🧠 In Progress
+🚧 Building a network scanner tool (with Nmap + Python)
+
+🧪 Writing unit tests for my Flask apps
+
+🎓 Studying for CCNA (wish me luck!)
+
+📫 Let’s Connect!
+💌 Got ideas, feedback, or just want to geek out together?
+
+
+
+“Code is poetry, and this is where I write mine.” 🧚‍♀️🌈
+— Kitten
