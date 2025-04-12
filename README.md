@@ -24,17 +24,19 @@ Explore live demos and code experiments I whipped up in Replit! 🛠️⚡
 
 | Project | Preview | Link |
 |--------|---------|------|
+| 🚀 **Space Shooter Game** | Shoot and destroy asteroids with Laser. | [👉 Try on Replit](https://replit.com/@gloriabjohnson/Space-shooter-Game) |
+| 🖥️ **Network Performance Chart** | Measures performance of network requests and displays results in a chart. | [👉 Try on Replit](https://replit.com/@yourusername/color-mixer) |
 | 🎨 **Color Mixer App** | Mix RGB values to create custom colors in real-time. | [👉 Try on Replit](https://replit.com/@yourusername/color-mixer) |
 | 🧠 **Memory Game** | Challenge your memory in this cute and colorful Python game. | [👉 Try on Replit](https://replit.com/@yourusername/memory-game) |
 | 📖 **Story Generator** | An AI-powered short story generator using prompts and random choices. | [👉 Try on Replit](https://replit.com/@yourusername/story-generator) |
 
 ---
 
-## 🛠️ Technologies I Love
+## 🛠️ Technologies I Love and Use
 
 ```text
-🐍 Python     🧙‍♂️ Tkinter   🕹️ Pygame
-🛜 Sockets     ☁️ Flask      🧩 APIs
+🐍 Python     🧙‍♂️ Tkinter   🕹️ Pygame   🤖 Matplotlib
+🛜 Sockets     ☁️ Flask      🧩 APIs   🎐 Scapy
 
 
 
