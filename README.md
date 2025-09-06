@@ -22,13 +22,10 @@
 
 Explore live demos and code experiments I whipped up in Replit! 🛠️⚡
 
-| Project | Preview | Link |
-|--------|---------|------|
-| 🚀 **Space Shooter Game** | Shoot and destroy asteroids with Laser. | [👉 Try on Replit](https://replit.com/@gloriabjohnson/Space-shooter-Game) |
-| 🖥️ **Network Performance Chart** | Measures performance of network requests and displays results in a chart. | [👉 Try on Replit](https://replit.com/@yourusername/color-mixer) |
-| 🎨 **Color Mixer App** | Mix RGB values to create custom colors in real-time. | [👉 Try on Replit](https://replit.com/@yourusername/color-mixer) |
-| 🧠 **Memory Game** | Challenge your memory in this cute and colorful Python game. | [👉 Try on Replit](https://replit.com/@yourusername/memory-game) |
-| 📖 **Story Generator** | An AI-powered short story generator using prompts and random choices. | [👉 Try on Replit](https://replit.com/@yourusername/story-generator) |
+| Project | Preview | Live Demo | Code |
+|---------|---------|-----------|------|
+| 🚀 **Space Shooter Game** | Shoot and destroy asteroids with laser fire. | [👉 Try on Replit](https://replit.com/@gloriabjohnson/Space-shooter-Game) | [💻 View Code](https://github.com/kelubia/space-shooter) |
+| 🩺 **Medical Diagnosis Bot** | Not a doctor (seriously, don’t trust it for medical advice 🛑). | [👉 Try on Replit](https://replit.com/@gloriabjohnson/Medical-diagnosis-Bot) | [💻 View Code](https://github.com/kelubia/medical-diagnosis-bot) |
 
 ---
 
